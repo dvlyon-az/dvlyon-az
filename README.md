@@ -1,6 +1,8 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=dvlyon&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dvlyon-az&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hi there 👋
+
+## Personal Profile [@dvlyon](https://github.com/dvlyon)
 
 - 🔭 I’m currently working on Unify - Mobile App
 - 💬 Ask me about React
