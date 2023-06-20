@@ -1,7 +1,14 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=dvlyon&theme=matrix&&title=LongTimeUser,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Hi there 👋
 
+- 🔭 I’m currently working on Unify - Mobile App
+- 💬 Ask me about React
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love videogames!
+
 <!--
-**dvlyon-az/dvlyon-az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dvlyon/DvLyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
