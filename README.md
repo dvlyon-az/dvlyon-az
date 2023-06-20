@@ -4,7 +4,7 @@
 
 ## Personal Profile [@dvlyon](https://github.com/dvlyon)
 
-- 🔭 I’m currently working on Unify - Mobile App
+- 🔭 I’m currently working on React Native
 - 💬 Ask me about React
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love videogames!
