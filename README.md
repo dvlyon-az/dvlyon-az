@@ -3,7 +3,7 @@
 ### Cheers! 🥂
 
 ## Inactive work account!
-## Personal Profile [@dvlyon](https://github.com/dvlyon)
+# Personal Profile [@dvlyon](https://github.com/dvlyon)
 
 - 🔭 I’m currently working on React Native
 - 💬 Ask me about React
